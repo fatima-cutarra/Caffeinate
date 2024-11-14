@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Caffeinate
+Caffeinate App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Buy your favorite coffee drinks online
+* Message your favorite store
+* Rate others coffee
+* Search other store
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +19,13 @@ TechFolio Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/ScreenShots/Screen.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/ScreenShots/Screen2.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/ScreenShots/Screen1.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/ScreenShots/tabs.png">  
